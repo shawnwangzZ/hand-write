@@ -1,0 +1,8 @@
+{
+  "name": "hand-write",
+  "version": "1.0.0",
+  "description": "手写js原生代码",
+  "main": "index.js",
+  "author": "shawnwangfdu@gmail.com",
+  "license": "MIT"
+}
